@@ -7,7 +7,6 @@
 [![PyPI version](https://img.shields.io/pypi/v/plotix.svg)](https://pypi.org/project/plotix/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/plotix.svg)](https://pypi.org/project/plotix/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Jack111I/Plotix/blob/main/LICENSE)
-[![CI](https://github.com/Jack111I/Plotix/actions/workflows/ci.yml/badge.svg)](https://github.com/Jack111I/Plotix/actions)
 [![Coverage](https://img.shields.io/codecov/c/github/Jack111I/Plotix)](https://codecov.io/gh/Jack111I/Plotix)
 [![Docs](https://img.shields.io/badge/docs-online-blue)](https://jack111i.github.io/Plotix)
 
