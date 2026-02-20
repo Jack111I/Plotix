@@ -1,0 +1,13 @@
+# Example configuration – edit values as needed
+target:
+  domain: "example.com"
+  ip: null          # can be auto‑resolved
+scan:
+  ports: "1-1024"
+  threads: 50
+wifi:
+  interface: "wlan0"
+  channel: 1
+mac_spoof:
+  interface: "eth0"
+  spoof_ip: "192.168.1.100"
